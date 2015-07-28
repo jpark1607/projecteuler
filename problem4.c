@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 void main(void) {
-	// int num = 600851475143 = 71 * 8462696833 401
 	int mul = 0;
 	int a, b, c, d, e, f;
 	int comp1 = 1, comp2 = 2;
